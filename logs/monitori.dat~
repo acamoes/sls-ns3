@@ -1,0 +1,4 @@
+#Flow ID 	delaySum	lostPackets	bytesDropped	packetsDropped	rxBytes	rxPackets	txBytes	txPackets	
+#FD  dSum lP byDpd pDd rB rP tB tP 
+1	+0.0ns	88	
+3	+0.0ns	93	
